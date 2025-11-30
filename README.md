@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Our project focuses on leveraging advanced predictive modeling and machine learning techniques for early diabetes detection. By integrating diverse health parameters like genetic markers, lifestyle data, medical history, and physiological measurements, we aim to create a sophisticated predictive model. This pioneering approach utilizes cutting-edge machine learning algorithms to uncover subtle patterns in vast datasets, potentially predicting diabetes onset before clinical symptoms appear. Early identification enables timely interventions and personalized healthcare strategies, holding promise for improving patient outcomes and reducing the burden on healthcare systems globally.
+Our project focuses on using advanced predictive modeling and machine learning techniques for early diabetes detection. By integrating diverse health parameters like genetic markers, lifestyle data, medical history, and physiological measurements, we aim to create a sophisticated predictive model. This pioneering approach utilizes cutting-edge machine learning algorithms to uncover subtle patterns in vast datasets, potentially predicting diabetes onset before clinical symptoms appear. Early identification enables timely interventions and personalized healthcare strategies, holding promise for improving patient outcomes and reducing the burden on healthcare systems globally.
 
 ## Dataset Information
 
