@@ -117,4 +117,4 @@ While both models have the same accuracy, the First model performs better in ter
 - Patient screening and monitoring
 - Personalized healthcare strategies
 
-This project demonstrates the complete workflow of a medical classification problem from data exploration to predictive modeling, with potential real-world applications in healthcare diagnostics and preventive medicine.
+
